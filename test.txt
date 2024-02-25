@@ -1,0 +1,42 @@
+Free Pro annonce l’entrée de sa solution ‘Dedicated secured cloud’ dans le processus de la qualification SecNumCloud, un référentiel des plus exigeants et sélectifs développé par l’Agence nationale de la sécurité des systèmes d’information (ANSSI). Cette démarche vient renforcer le positionnement de Free Pro au service d’une transformation numérique des entreprises et des organisations publiques dans un cadre de confiance.
+
+Plus de 50 000 entreprises, collectivités locales et administrations font déjà confiance à Free Pro pour leurs besoins d’infrastructure télécom, cloud et cyber.
+
+A la faveur de l’accélération de la transformation numérique, l’adoption du cloud est devenue un moteur incontournable d’innovation, d’agilité et de compétitivité pour les entreprises. Face à la multiplication des cyberattaques, le développement des usages de solutions cloud va de pair avec des exigences accrues, tant du point de vue de la sécurité des systèmes d’information que du point de vue des garanties liées à la protection des données. Le recours à des certifications nationales, européennes et internationales reconnues est ainsi devenu une véritable nécessité pour instaurer la confiance.
+
+ 
+
+Free Pro entre dans le processus de la qualification SecNumCloud
+Cette première étape marque le début d’un processus d’évaluations de robustesse de la solution réalisé par un centre agréé par l’ANSSI.
+
+Élaboré par l’ANSSI le référentiel SecNumCloud se compose d’un ensemble de règles de sécurité garantissant un haut niveau d’exigence tant d’un point de vue technique, qu’opérationnel ou juridique.
+
+Plus précisément, le référentiel SecNumCloud couvre des exigences relatives au prestataire de service, à son personnel, ainsi qu’au déroulement des prestations. Il garantit la robustesse de la solution face aux cyberattaques les plus courantes, mais aussi la rigueur et la formalisation des processus et méthodes du fournisseur de service.
+
+Les exigences du référentiel garantissent la protection du service cloud vis-à-vis du droit extra-européen, grâce à la combinaison de mesures techniques (étanchéité des systèmes d’information), opérationnelles (assurant que seul le prestataire peut intervenir sur les ressources supportant le service) et juridiques (application exclusive du droit européen).
+
+ 
+
+Vers un renforcement du niveau de sécurité
+Plus de 50 000 entreprises font d’ores et déjà confiance à Free Pro, sur l’ensemble du territoire. Nous comptons parmi nos clients 25% des entreprises du CAC 40, ainsi que des collectivités locales et des administrations centrales. De plus, Free Pro héberge dans ses data centers les données d’entités telles que le Ministère de l’Intérieur et la Gendarmerie Nationale.
+
+L’entrée de Free Pro dans le processus de qualification SecNumCloud est une étape supplémentaire dans la stratégie de souveraineté portée par cet acteur dont l’actionnariat, les infrastructures et l’ensemble des collaborateurs sont basés en France. Elle témoigne de notre niveau d’ambition, de rigueur sur le plan cyber et de notre volonté d’apporter un niveau maximal de garanties de sécurité et de confiance à l’ensemble des clients qui nous confient leurs données, y compris les plus sensibles.
+
+ 
+
+Investissements continus, innovation et certification : les trois piliers de la sécurité chez Free Pro
+Pour satisfaire les exigences les plus élevées en matière de sécurité des systèmes d’information, d’intégrité, de confidentialité et de protection des données, Free Pro s’est engagé depuis 2024 dans une vraie stratégie de sécurité de l’information avec la constitution d’une équipe dédiée. Ainsi, l’entreprise a développé ses services et l’hébergement des données de ses clients dans ses propres datacenters situés en France, opérés par le Groupe iliad. Ceux-ci répondent aux normes les plus exigeantes : certifications ISO 27001, Hébergement des Données de Santé (HDS) et PCI-DSS. Cette politique de sécurité implique un renouvellement régulier des certifications et un suivi quotidien. Enfin, de par la localisation de nos infrastructures, les données de nos clients sont strictement et exclusivement soumises aux législations françaises et européennes en matière de protection des données.
+
+En outre, Free Pro a fait de la cybersécurité un marqueur fort de son développement, à travers l’innovation. Ainsi, nos offres intègrent une solution de cybersécurité souveraine appelée Cyber XPR, développée par notre filiale ITrust. Cette solution bénéficie d’un Visa de sécurité ANSSI (PASSI). Elle est basée sur l’intelligence artificielle, en matière de détection des menaces cyber (SIEM, EDR, scanner de vulnérabilité) et s’appuie sur deux centres opérationnels de sécurité (SOC) situés en France.
+
+ 
+
+Denis Planat, directeur général de Free Pro :
+
+« Nous sommes extrêmement fiers que notre solution ‘Dedicated secured cloud’ fasse officiellement son entrée dans le processus de qualification SecNumCloud de l’ANSSI. Chez Free Pro, nous considérons la sécurité des données de nos clients comme une priorité absolue. Cette démarche renforce notre position en tant qu’opérateur souverain de confiance dans le secteur des télécommunications et du cloud en France. »
+
+ 
+
+Thomas Reynaud, directeur général du Groupe iliad :
+
+« Nous prenons, par cette démarche, un engagement fort : protéger avec les standards les plus exigeants le capital données de nos clients. C’est désormais incontournable. »
