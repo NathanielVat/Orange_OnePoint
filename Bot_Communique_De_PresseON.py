@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import sys
 
-os.environ['PYTHONWARNINGS'] = 'ignore:Unverified HTTPS request' 
+os.environ['PYTHONWARNINGS'] = 'ignore:Unverified HTTPS request' #on essaye github
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
